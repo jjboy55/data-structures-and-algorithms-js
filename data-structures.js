@@ -2,8 +2,10 @@
 //EXAMPLES O(n)
 
 function logAtleast5(n) {
-    for (let index = 0; index < Math.max(5,n); index++) {
+    for (let index = 0; index <= Math.max(5,n); index++) {
         console.log(index);
     }
 }
+
+logAtleast5(8);
 
