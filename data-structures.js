@@ -7,5 +7,5 @@ function logAtleast5(n) {
     }
 }
 
-logAtleast5(8);
+logAtleast5(10);
 
