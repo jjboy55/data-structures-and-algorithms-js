@@ -9,3 +9,8 @@ function logAtleast5(n) {
 
 logAtleast5(10);
 
+// Algorithms and problem solving patterns 
+// steps to accomplish a certain task 
+// 1. devise a plan 
+// 2. master problem solving patterns 
+
