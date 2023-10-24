@@ -14,3 +14,6 @@ logAtleast5(10);
 // 1. devise a plan 
 // 2. master problem solving patterns 
 
+// Different types of BIG O NOTATION 
+// O(n), O(1), O(n^2), O(log n), O(n log n)
+
