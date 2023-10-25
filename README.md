@@ -21,4 +21,7 @@ If you are also taking this course, or if you are interested in learning about d
 ## How to Use This Repository
 
 To use this repository, simply clone it to your local machine:
+```Markdown
+git clone https://github.com/jjboy55/data-structures-and-algorithms.git
+
 
