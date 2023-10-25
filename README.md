@@ -35,5 +35,3 @@ To fork the repo and start adding your own snippets and understanding, follow th
 
 ```Markdown 
 git clone https://github.com/jjboy55/data-structures-and-algorithms.git
-
-
