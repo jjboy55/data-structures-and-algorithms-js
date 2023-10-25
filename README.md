@@ -24,4 +24,12 @@ To use this repository, simply clone it to your local machine:
 ```Markdown
 git clone https://github.com/jjboy55/data-structures-and-algorithms.git
 
+o fork the repo and start adding your own snippets and understanding, follow these steps:
+
+Go to the repo page on GitHub.
+Click the "Fork" button at the top of the page.
+Clone your fork to your local machine using the following command:
+Python
+git clone https://github.com/<your_username>/data-structures-and-algorithms.git
+
 
